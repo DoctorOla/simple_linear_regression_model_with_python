@@ -62,14 +62,12 @@ Your Name - DoctorOla // popoola16@gmail.com
 https://www.linkedin.com/in/olaoluwa-popoola-bsc-csm-sfc-ssybc-data-analyst-3475b0229/
 https://twitter.com/@DoctorOla
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Project Link:(https://github.com/DoctorOla/simple_linear_regression_model_with_python)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
+I would like to acknowledge all my colleague, my coach who is also my mentor. I would like to say a big thank you to plural code for the opportunity and the platform.
 * [Choose an Open Source License](https://choosealicense.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
